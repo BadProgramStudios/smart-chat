@@ -1,0 +1,27 @@
+.text-box-item{
+    --border-radius:15px;
+    background: transparent;
+}
+
+.chat-icon{
+    font-size: 23px;
+}
+
+.chat-item{
+    --padding-top: 10px;
+    --padding-bottom: 10px;
+
+    &.bot{
+        --background: transparent;
+    }
+}
+
+ion-badge{
+    padding: 15px;
+}
+
+.w-space{
+    white-space: pre-line;
+    font-size: 15px;
+    color: black;
+}

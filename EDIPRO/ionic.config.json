@@ -1,0 +1,7 @@
+{
+  "name": "EDIPRO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
