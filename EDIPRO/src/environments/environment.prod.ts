@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl: 'http://localhost:3003'
+  baseUrl: 'https://smart-chat-wud7.onrender.com'
 };
